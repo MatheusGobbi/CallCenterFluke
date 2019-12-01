@@ -1,0 +1,10 @@
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.csprojAssemblyReference.cache
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.Form1.resources
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.cache
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\mgobb\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
